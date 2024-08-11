@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요! 저는 백엔드 개발자 최효은 입니다. 👋
 
 <!--
 **hyoeun0001/hyoeun0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
