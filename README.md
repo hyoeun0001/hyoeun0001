@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=백엔드%20개발자%20최효은&fontSize=80)
-## 백엔드 개발자 최효은 
+
 
 <!--
 **hyoeun0001/hyoeun0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
