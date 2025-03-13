@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Backend%Engineer&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Backend%20Engineer&fontSize=90)
 ## 백엔드 개발자 최효은 
 
 <!--
