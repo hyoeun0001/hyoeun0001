@@ -31,7 +31,6 @@
 - 📧 **Email**: [hellen0123@naver.com](mailto:hellen0123@naver.com)
 
 ## 📊 GitHub Stats
-![Hyoeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellen0123&show_icons=true&theme=tokyonight)
 
 ---
 💡 더 좋은 개발자가 되기 위해 항상 노력하고 있습니다. 함께 성장할 수 있도록 좋은 인연이 되기를 바랍니다! 🚀
