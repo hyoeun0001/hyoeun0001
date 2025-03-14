@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=최효은%20&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=최효은(Back-end%20Developer)%20&fontSize=40)
 
 ## 🚀 About Me
 안녕하세요! 백엔드 개발자 최효은입니다. 주로 백엔드 개발을 다루며, 다양한 기술을 활용하여 효율적인 시스템을 구축하는 데 관심이 많습니다. 현재 취업을 준비하며 기술을 탐구하고 프로젝트를 진행하고 있습니다. 😊
