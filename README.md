@@ -30,7 +30,9 @@
 - 📝 **Blog**: [velog.io/@hellen0123](https://velog.io/@hellen0123)
 - 📧 **Email**: [hellen0123@naver.com](mailto:hellen0123@naver.com)
 
+<!--
 ## 📊 GitHub Stats
+-->
 
 ---
 💡 더 좋은 개발자가 되기 위해 항상 노력하고 있습니다. 함께 성장할 수 있도록 좋은 인연이 되기를 바랍니다! 🚀
