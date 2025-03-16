@@ -5,6 +5,8 @@
 안녕하세요! 백엔드 개발자 최효은입니다. 주로 백엔드 개발을 다루며, 다양한 기술을 활용하여 효율적인 시스템을 구축하는 데 관심이 많습니다. 여러 기술을 탐구하고 프로젝트를 진행하고 있습니다. 😊
 </p>
 
+---
+
 <h2 align="center">💻 Tech Stack</h2>
 
 <h3 align="center">Backend</h3>
@@ -37,6 +39,8 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
+
+---
 
 <h2 align="center">📌 Blog & Contact</h2>
 <p align="center">
