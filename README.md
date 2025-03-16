@@ -7,7 +7,8 @@
 효율적이고 확장 가능한 시스템을 구축하는 데 관심이 많습니다. 😊
 </p>
 
----
+<br>
+<br>
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -49,7 +50,8 @@
   </tr>
 </table>
 
----
+<br>
+<br>
 
 <h2 align="center">📌 Blog & Contact</h2>
 <p align="center">
@@ -57,7 +59,8 @@
   📧 <a href="mailto:hellen0123@naver.com"><b>Email</b></a>
 </p>
 
----
+<br>
+<br>
 
 <p align="center">
   💡 더 좋은 개발자가 되기 위해 항상 노력하고 있습니다.<br>
