@@ -56,7 +56,7 @@
 <h2 align="center">📌 Blog & Contact</h2>
 <p align="center">
   📝 <a href="https://velog.io/@hellen0123"><b>Velog</b></a> |  
-  📧 <a href="mailto:hellen0123@naver.com"><b>Email</b></a>
+  📧 <a href="mailto:hellen0123@naver.com"><b>hellen0123@naver.com</b></a>
 </p>
 
 <br>
